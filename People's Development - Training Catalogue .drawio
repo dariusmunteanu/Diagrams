@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-07-27T11:50:39.397Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15" etag="XGLcF9IjvelGe7LakPle" version="13.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-27T11:55:52.056Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15" etag="sZq0tGL6s-0ax-oApMT0" version="13.4.6" type="github">
   <diagram id="uwtyysx4m1KapevDH-VO" name="Page-1">
     <mxGraphModel dx="1186" dy="723" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1400" background="none" math="0" shadow="0">
       <root>
@@ -314,7 +314,7 @@
         <mxCell id="w5XiqvBfzHEH4jSSdfpY-4" value="TrainingCourseId" style="text;strokeColor=#000000;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;shadow=0;comic=0;" vertex="1" parent="w5XiqvBfzHEH4jSSdfpY-1">
           <mxGeometry y="78" width="140" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="w5XiqvBfzHEH4jSSdfpY-5" value="DateTime" style="text;strokeColor=#000000;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;shadow=0;comic=0;" vertex="1" parent="w5XiqvBfzHEH4jSSdfpY-1">
+        <mxCell id="w5XiqvBfzHEH4jSSdfpY-5" value="DateCreated" style="text;strokeColor=#000000;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;shadow=0;comic=0;" vertex="1" parent="w5XiqvBfzHEH4jSSdfpY-1">
           <mxGeometry y="104" width="140" height="26" as="geometry" />
         </mxCell>
         <mxCell id="w5XiqvBfzHEH4jSSdfpY-6" value="WasAccepted" style="text;strokeColor=#000000;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;shadow=0;comic=0;" vertex="1" parent="w5XiqvBfzHEH4jSSdfpY-1">
